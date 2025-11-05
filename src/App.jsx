@@ -30,7 +30,6 @@ function App() {
           </p>
           <h1>Hello from IntelliJ 🎉</h1>
       </>
-
   )
 }
 
