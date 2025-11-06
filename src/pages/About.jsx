@@ -22,5 +22,4 @@ function About() {
         </motion.div>
     );
 }
-
 export default About;
