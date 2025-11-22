@@ -45,7 +45,8 @@ function Home() {
                     { label: 'Get Help', path: '/help' },
                     { label: 'About Us', path: '/about' },
                     { label: 'Study Groups', path: '/study-groups' },
-                    { label: 'Jobs', path: '/jobs' }
+                    { label: 'Jobs', path: '/jobs' },
+                    { label: 'Events', path: '/events' }
                 ].map(({ label, path }) => (
                     <button
                         key={label}
